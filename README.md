@@ -3,15 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyab-balti&label=Profile%20views&color=0e75b6&style=flat" alt="tayyab-balti" /> </p>
 
-- 🔭 I’m currently working on **Developing a machine learning project using Python and scikit-learn to compare the performance of supervised learning algorithms (e.g., Linear Regression, Decision Trees, SVM) on a real-world dataset.**
+- 🔭 I’m currently focused on learning Django and Django REST Framework (DRF) by building real-world beginner-friendly projects and documenting the process through detailed notes to help others get started.
 
-- 🌱 I’m currently learning **introductory concepts in Artificial Intelligence.**
+- 🧠 I’m actively writing and sharing DRF notes to support beginners in understanding RESTful APIs and backend development using Django.
 
-- 👯 I’m looking to collaborate on **Small-scale Django projects or AI-related coding exercises suitable for beginners.**
+- 🌱 Recently completed several CRUD-based Django projects (function- and class-based views), implemented authentication, and explored REST API development with DRF.
 
-- 🤝 I’m looking for help with **Best practices in Django development and guidance on starting my AI learning journey.**
+- 🤝 I’m looking to collaborate on small to mid-scale Django/DRF projects, open-source contributions, and internship opportunities where I can learn best practices in a professional setting.
 
-- 💬 Ask me about **My experience as a newcomer to programming and web development, and my growing interest in AI technologies.**
+- 💬 Ask me about getting started with Django, writing clean REST APIs, or my learning journey from web development to exploring AI.
+
+- 🎯 Open to Django Internship roles where I can contribute, grow, and work with experienced developers.
 
 - 📫 How to reach me **smtayyab110@gmail.com**
 
