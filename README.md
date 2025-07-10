@@ -1,23 +1,19 @@
-<h1 align="center">Hi 👋, I'm Syed Tayyab</h1>
-<h3 align="center">🚀 Aspiring Django Developer | Passionate about Backend Development & AI Foundations </h3>
+<h1 align="center">Hi 👋, I'm Syed Tayyab</h1> <h3 align="center">🚀 Aspiring MERN Stack Developer | Passionate about Frontend & Full-Stack JavaScript Development</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyab-balti&label=Profile%20views&color=0e75b6&style=flat" alt="tayyab-balti" /> </p>
+🔭 I’m currently focused on learning the MERN stack, starting with React, and will soon dive deeper into Node.js, Express, and MongoDB by building real-world beginner-friendly projects.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyab-balti&label=Profile%20views&color=0e75b6&style=flat" alt="tayyab-balti" /> </p>
+🧠 I'm actively documenting my React and JavaScript learning journey with detailed notes and code examples to help other beginners get started in full-stack development.
 
-- 🔭 I’m currently focused on learning Django and Django REST Framework (DRF) by building real-world beginner-friendly projects and documenting the process through detailed notes to help others get started.
+🌱 Recently built several frontend projects using React, explored component-based architecture, state management, and integration with APIs.
 
-- 🧠 I’m actively writing and sharing DRF notes to support beginners in understanding RESTful APIs and backend development using Django.
+🤝 I’m looking to collaborate on beginner to mid-level MERN stack projects, contribute to open-source, or join internship opportunities where I can work in a real development environment and follow best practices.
 
-- 🌱 Recently completed several CRUD-based Django projects (function- and class-based views), implemented authentication, and explored REST API development with DRF.
+💬 Ask me about getting started with React, learning the MERN stack, or transitioning from basic web development to full-stack applications.
 
-- 🤝 I’m looking to collaborate on small to mid-scale Django/DRF projects, open-source contributions, and internship opportunities where I can learn best practices in a professional setting.
+🎯 Open to MERN Stack Internship roles where I can grow, contribute, and learn alongside experienced developers.
 
-- 💬 Ask me about getting started with Django, writing clean REST APIs, or my learning journey from web development to exploring AI.
+📫 How to reach me: smtayyab110@gmail.com
 
-- 🎯 Open to Django Internship roles where I can contribute, grow, and work with experienced developers.
-
-- 📫 How to reach me **smtayyab110@gmail.com**
-
-- ⚡ Fun fact **GitHub’s mascot, Octocat, was originally designed by graphic designer Simon Oxley. The character has become an iconic symbol for developers worldwide.**
+⚡ Fun fact: GitHub’s mascot, Octocat, was originally designed by graphic designer Simon Oxley. It has since become an iconic symbol in the dev world.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
