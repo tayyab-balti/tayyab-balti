@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Tayyab</h1>
 <h3 align="center">
-🚀 MERN Stack Developer | React • Node.js • Express • MongoDB
+🚀 MERN | MEAN | Laravel | Django
 </h3>
 
 <p align="left">
